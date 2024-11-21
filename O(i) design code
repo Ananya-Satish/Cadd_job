@@ -11,5 +11,5 @@ if (ns==2'b10)
 y=1;
 else
 y=0;
-end
+end 
 endmodule
