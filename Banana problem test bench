@@ -1,4 +1,4 @@
-module bcd;
+module bcd; 
 reg[7:0] a,b;
 reg cin;
 wire[7:0] s;
