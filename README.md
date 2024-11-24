@@ -5,4 +5,4 @@ J - Jackfruit (these contain 2 sub programs - floating point multipliers and pre
 o - Orange (these contain 10 sub programs which are named accordingly from a to j)
 B - Banana (contains 1 program on bcd adders)
 
-The write up part of the assignment has been attached thrugh a word file. 
+The write up part of the assignment has been attached through a pdf. 
