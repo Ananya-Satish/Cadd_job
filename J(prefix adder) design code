@@ -1,8 +1,4 @@
-module pa(
-input [31:0] a,
-input [31:0] b,
-output [31:0] sum
-);
+module pa(input [31:0] a,input [31:0] b,output [31:0] sum);
 wire [31:0] g, p, c;
 assign g = a & b;
 assign p = a ^ b;
